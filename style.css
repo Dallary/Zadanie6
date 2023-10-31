@@ -39,3 +39,9 @@ header
 .name-project {
     margin: 20px;
 }
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
