@@ -14,3 +14,28 @@
 .p-5{
     background-image: https://alterainvest.ru/upload/iblock/f69/f69d60dc9af1a912b6cdc14153e04f65.jpg;
 }
+header
+{
+    max-width: 100%;
+    background-color: #6d3ba1;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    flex-direction: column;
+    position: relative;
+}
+
+.head
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.headerer
+{
+    width: 100%;
+}
+.name-project {
+    margin: 20px;
+}
