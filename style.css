@@ -81,7 +81,7 @@ p{
 /*
 footer
 {
-    background-color: #4b1e79;
+    background-color: #c2b5a3;
     margin: 0;
     max-width: 100%;
     position: fixed;
@@ -180,13 +180,13 @@ body {
     line-height: var(--bs-body-line-height);
     color: var(--bs-body-color);
     text-align: var(--bs-body-text-align);
-    background-color: #c2a4c9;
+    background-color: #c2b5a3;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: #4a2222;
 }
 
 .p-5 {
-    background-color: #c2a4c9;
+    background-color: #c2b5a3;
     padding: 2rem!important;
 }
 
