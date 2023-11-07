@@ -132,16 +132,16 @@ textarea:focus, input:focus
 }
 label
 {
-    color:#999999;
+    color:black;
 }
 #Count
 {
-    color:#999999
+    color:black
 }
 #button
 {
 
-    background-color: #999999;
+    background-color: black;
 }
 @media all and (min-width: 900px)
 {
