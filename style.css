@@ -4,7 +4,7 @@
 }
 
 .root {
-    background-color:#7c39af;
+    background-color:#59545c;
     margin: 0;
     padding: 0;
     background-attachment: fixed;
@@ -13,7 +13,7 @@
 header
 {
     max-width: 100%;
-    background-color: #6d3ba1;
+    background-color: #59545c;
     display: flex;
     justify-content: center;
     margin: 0;
